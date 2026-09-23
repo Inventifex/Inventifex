@@ -1,15 +1,11 @@
 <div align="center">
 
-# 🚀 INVENTIFEX
+<img src="./assets/banner.png" width="100%" alt="Inventifex">
 
-### 💡 Ideias que ganham forma.
-
-**Tecnologia criativa • Impressão 3D • Eletrônica • Automação**
-
-<br>
+<br><br>
 
 [![Website](https://img.shields.io/badge/🌐_Website-inventifex.com.br-181717?style=for-the-badge)](https://www.inventifex.com.br/)
-[![Contato](https://img.shields.io/badge/📩_Contato-contato%40inventifex.com.br-181717?style=for-the-badge)](mailto:contato@inventifex.com.br)
+[![Contato](https://img.shields.io/badge/📩_Contato-lojavirtual%40inventifex.com.br-181717?style=for-the-badge)](mailto:lojavirtual@inventifex.com.br)
 
 </div>
 
@@ -25,7 +21,11 @@ A **Inventifex** é uma empresa de tecnologia criativa dedicada ao desenvolvimen
 
 Unimos **impressão 3D, eletrônica, automação e criatividade** para transformar conceitos em soluções reais, funcionais e personalizadas.
 
+<div align="center">
+
 > 💡 **Da primeira ideia ao produto pronto.**
+
+</div>
 
 ---
 
@@ -234,8 +234,6 @@ A Inventifex combina diferentes áreas para desenvolver soluções completas.
 
 </div>
 
-Neste perfil você encontrará projetos relacionados a:
-
 <div align="center">
 
 🖨️ **Impressão e fabricação 3D**
@@ -277,6 +275,7 @@ através da união entre **criatividade, tecnologia e execução**.
 <td align="center">
 
 ### 💡
+
 **ÚTEIS**
 
 </td>
@@ -284,6 +283,7 @@ através da união entre **criatividade, tecnologia e execução**.
 <td align="center">
 
 ### 🎨
+
 **PERSONALIZADOS**
 
 </td>
@@ -291,6 +291,7 @@ através da união entre **criatividade, tecnologia e execução**.
 <td align="center">
 
 ### ⚙️
+
 **FUNCIONAIS**
 
 </td>
@@ -298,6 +299,7 @@ através da união entre **criatividade, tecnologia e execução**.
 <td align="center">
 
 ### 🚀
+
 **INOVADORES**
 
 </td>
@@ -335,13 +337,13 @@ através da união entre **criatividade, tecnologia e execução**.
 
 <br>
 
-### ✉️ contato@inventifex.com.br
+### ✉️ lojavirtual@inventifex.com.br
 
 ### 🌐 www.inventifex.com.br
 
 <br>
 
-[![Enviar Email](https://img.shields.io/badge/📩_Enviar_Email-contato%40inventifex.com.br-181717?style=for-the-badge)](mailto:contato@inventifex.com.br)
+[![Enviar Email](https://img.shields.io/badge/📩_Enviar_Email-lojavirtual%40inventifex.com.br-181717?style=for-the-badge)](mailto:lojavirtual@inventifex.com.br)
 
 [![Visitar Site](https://img.shields.io/badge/🌐_Visitar_Site-inventifex.com.br-181717?style=for-the-badge)](https://www.inventifex.com.br/)
 
