@@ -29,7 +29,11 @@ Unimos **impressão 3D, eletrônica, automação e criatividade** para transform
 
 ---
 
+<div align="center">
+
 # ⚙️ O que fazemos
+
+</div>
 
 <table>
 <tr>
@@ -75,63 +79,241 @@ Produtos e soluções desenvolvidos de acordo com as necessidades de cada projet
 
 ---
 
+<div align="center">
+
 # 🔬 Do projeto à realidade
+
+<br>
+
+### 💡 IDEIA
+
+⬇️
+
+### 📐 PROJETO
+
+⬇️
+
+### 🧪 PROTÓTIPO
+
+⬇️
+
+### ⚙️ DESENVOLVIMENTO
+
+⬇️
+
+### 🖨️ FABRICAÇÃO
+
+⬇️
+
+### 🚀 PRODUTO
+
+<br>
+
+Cada projeto pode passar por diferentes etapas de desenvolvimento,
+transformando uma ideia inicial em uma solução concreta.
+
+</div>
+
+---
 
 <div align="center">
 
+# 🧩 Nossas soluções
+
+</div>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🖨️
+
+**Fabricação**
+
+Impressão 3D  
+Prototipagem  
+Pequenas séries
+
+</td>
+
+<td align="center">
+
+### ⚡
+
+**Eletrônica**
+
+Componentes  
+Sensores  
+Sistemas eletrônicos
+
+</td>
+
+<td align="center">
+
+### 🤖
+
+**Automação**
+
+Processos automatizados  
+Integração  
+Soluções inteligentes
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🛠️ Tecnologia + criatividade
+
+<br>
+
+A Inventifex combina diferentes áreas para desenvolver soluções completas.
+
+<br>
+
 ### 💡 IDEIA
-⬇️
+
+↓
+
+### 🧠 CRIATIVIDADE
+
+↓
+
 ### 📐 PROJETO
-⬇️
+
+↓
+
 ### 🧪 PROTÓTIPO
-⬇️
+
+↓
+
 ### ⚙️ DESENVOLVIMENTO
-⬇️
+
+↓
+
 ### 🖨️ FABRICAÇÃO
-⬇️
+
+↓
+
 ### 🚀 PRODUTO
 
 </div>
 
-Cada projeto pode passar por diferentes etapas de desenvolvimento, permitindo transformar uma ideia inicial em uma solução concreta.
-
 ---
-
-# 🧩 Nossas soluções
 
 <div align="center">
 
-| 🖨️ Fabricação | ⚡ Eletrônica | 🤖 Automação |
-|:---:|:---:|:---:|
-| Impressão 3D | Sensores | Sistemas automatizados |
-| Prototipagem | Componentes eletrônicos | Soluções inteligentes |
-| Pequenas séries | Microcontroladores | Integração |
+# 📂 Projetos
+
+</div>
+
+Neste perfil você encontrará projetos relacionados a:
+
+<div align="center">
+
+🖨️ **Impressão e fabricação 3D**
+
+⚡ **Eletrônica**
+
+🤖 **Automação**
+
+🧪 **Prototipagem**
+
+🎨 **Produtos personalizados**
+
+💻 **Desenvolvimento tecnológico**
+
+🔧 **Experimentos e soluções**
 
 </div>
 
 ---
 
-# 🛠️ Tecnologia + criatividade
+<div align="center">
 
-A Inventifex combina diferentes áreas para desenvolver soluções completas.
+# 🎯 Nosso propósito
 
-```text
-                    💡 IDEIA
-                       │
-                       ▼
-               🧠 CRIATIVIDADE
-                       │
-                       ▼
-                  📐 PROJETO
-                       │
-                       ▼
-                 🧪 PROTÓTIPO
-                       │
-                       ▼
-              ⚙️ DESENVOLVIMENTO
-                       │
-                       ▼
-                 🖨️ FABRICAÇÃO
-                       │
-                       ▼
-                  🚀 PRODUTO
+<br>
+
+> **Inventar. Testar. Entregar.**
+
+<br>
+
+A Inventifex busca transformar ideias em soluções concretas
+através da união entre **criatividade, tecnologia e execução**.
+
+<br>
+
+### 💡 ÚTEIS
+
+### 🎨 PERSONALIZADOS
+
+### ⚙️ FUNCIONAIS
+
+### 🚀 INOVADORES
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Conheça a Inventifex
+
+<br>
+
+## 🚀 Tem uma ideia em mente?
+
+**Conte o que você precisa.**  
+**Nós ajudamos a transformar em algo real.**
+
+<br>
+
+[![Site Oficial](https://img.shields.io/badge/🌐_SITE_OFICIAL-Inventifex-181717?style=for-the-badge)](https://www.inventifex.com.br/)
+
+</div>
+
+---
+
+<div align="center">
+
+# 📩 Fale com a Inventifex
+
+<br>
+
+### ✉️ contato@inventifex.com.br
+
+### 🌐 www.inventifex.com.br
+
+<br>
+
+[![Enviar Email](https://img.shields.io/badge/📩_Enviar_Email-contato%40inventifex.com.br-181717?style=for-the-badge)](mailto:contato@inventifex.com.br)
+
+[![Visitar Site](https://img.shields.io/badge/🌐_Visitar_Site-inventifex.com.br-181717?style=for-the-badge)](https://www.inventifex.com.br/)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐝 INVENTIFEX
+
+### Tecnologia criativa. Produtos inteligentes. Soluções personalizadas.
+
+<br>
+
+**💡 Ideias que ganham forma.**
+
+<br>
+
+---
+
+<sub>© 2026 Inventifex — Todos os direitos reservados.</sub>
+
+</div>
