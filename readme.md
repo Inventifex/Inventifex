@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Inventifex">
+<img src="logo-header-negativo.svg" width="100%" alt="Inventifex">
 
 <br><br>
 
