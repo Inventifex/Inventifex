@@ -5,7 +5,8 @@
 <br><br>
 
 [![Website](https://img.shields.io/badge/🌐_Website-inventifex.com.br-181717?style=for-the-badge)](https://www.inventifex.com.br/)
-[![Contato](https://img.shields.io/badge/📩_Contato-lojavirtual%40inventifex.com.br-181717?style=for-the-badge)](mailto:lojavirtual@inventifex.com.br)
+[![Contato](https://img.shields.io/badge/📩_Contato-contato%40inventifex.com.br-181717?style=for-the-badge)](mailto:contato@inventifex.com.br)
+[![Loja](https://img.shields.io/badge/🛒_Loja-lojavirtual%40inventifex.com.br-181717?style=for-the-badge)](mailto:lojavirtual@inventifex.com.br)
 
 </div>
 
@@ -15,13 +16,13 @@
 
 ## 🧠 Tecnologia para transformar ideias em realidade
 
-</div>
+<br>
 
 A **Inventifex** é uma empresa de tecnologia criativa dedicada ao desenvolvimento de **produtos, projetos e soluções personalizadas**.
 
 Unimos **impressão 3D, eletrônica, automação e criatividade** para transformar conceitos em soluções reais, funcionais e personalizadas.
 
-<div align="center">
+<br>
 
 > 💡 **Da primeira ideia ao produto pronto.**
 
@@ -33,7 +34,7 @@ Unimos **impressão 3D, eletrônica, automação e criatividade** para transform
 
 # ⚙️ O que fazemos
 
-</div>
+<br>
 
 <table align="center">
 <tr>
@@ -84,6 +85,8 @@ Produtos e soluções desenvolvidos de acordo com as necessidades de cada projet
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -232,9 +235,11 @@ A Inventifex combina diferentes áreas para desenvolver soluções completas.
 
 # 📂 Projetos
 
-</div>
+<br>
 
-<div align="center">
+Neste perfil você encontrará projetos relacionados a:
+
+<br>
 
 🖨️ **Impressão e fabricação 3D**
 
@@ -337,13 +342,17 @@ através da união entre **criatividade, tecnologia e execução**.
 
 <br>
 
-### ✉️ lojavirtual@inventifex.com.br
+### ✉️ contato@inventifex.com.br
+
+### 🛒 lojavirtual@inventifex.com.br
 
 ### 🌐 www.inventifex.com.br
 
 <br>
 
-[![Enviar Email](https://img.shields.io/badge/📩_Enviar_Email-lojavirtual%40inventifex.com.br-181717?style=for-the-badge)](mailto:lojavirtual@inventifex.com.br)
+[![Contato](https://img.shields.io/badge/📩_Contato-contato%40inventifex.com.br-181717?style=for-the-badge)](mailto:contato@inventifex.com.br)
+
+[![Loja Virtual](https://img.shields.io/badge/🛒_Loja_Virtual-lojavirtual%40inventifex.com.br-181717?style=for-the-badge)](mailto:lojavirtual@inventifex.com.br)
 
 [![Visitar Site](https://img.shields.io/badge/🌐_Visitar_Site-inventifex.com.br-181717?style=for-the-badge)](https://www.inventifex.com.br/)
 
